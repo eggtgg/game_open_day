@@ -1,6 +1,6 @@
-edit by eggtgg
-
 # MiAI_Game_Control_by_Pose
+
+edit by eggtgg
 Demo of game control by mediapipe pose
 
 Video link:  https://youtu.be/UlGs_rUomow
